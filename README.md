@@ -1,4 +1,4 @@
-[![Abner´s Banner](./Random/Banner.png)](https://github.com/AbnerIO?tab=repositories)
+[![Abner´s Banner](./Random/banner.png)](https://github.com/AbnerIO?tab=repositories)
 
 - 👋 Hi, I’m @AbnerIO
 - 📱 I´m currently studying software technology engineering at the university at the Universidad Autónoma of Nuevo Leon 

@@ -6,5 +6,4 @@
 - 🌱 I’m currently learning Front-end Development tools (JS)
 - :mexico: 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbnerIO&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47o2eaq9i64wcbht8ikgne3fsz2p08ioacaxt2cww0&rid=giphy.gif&ct=g" alt="Databay showcase gif" title="Databay showcase gif" width="200"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbnerIO&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

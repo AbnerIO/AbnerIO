@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abner Velázquez</h1>
 <h3 align="center">I´m a young Mexican programmer </h3>
 
-- 🔭 I’m currently studying [Software´s Technologies Engineering](https://www.uanl.mx/)
+- 🔭 I’m currently studying [Software´s Technologies Engineering](https://www.uanl.mx/oferta/ingeniero-en-tecnologia-de-software/)
 
 - 🌱 I’m currently learning **Web Development**
 

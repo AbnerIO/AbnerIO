@@ -1,4 +1,4 @@
-![Banner](https://github.com/AbnerIO/Proyecto-Bienes-Raices/blob/main/Banner.png)
+
 ---
 <h3 align="center">Student </h3>
 

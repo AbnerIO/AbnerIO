@@ -1,23 +1,29 @@
+Markdown
+
 # 💻 Hola, soy **Abner Velázquez**  
-**Analista de Información | Power BI | Python | SQL | Visualización de Datos**  
+**Data Engineer & AI / ML**  
 
 ---
 
 ## 🚀 Sobre mí  
-Soy un apasionado analista de información con experiencia en el desarrollo de reportes interactivos, análisis de datos, y automatización de procesos. Mi objetivo es transformar datos en información valiosa que impulse la toma de decisiones estratégicas.  
+Ingeniero de datos especializado en **IA, Machine Learning y Arquitectura Cloud**. Me enfoco en el diseño de pipelines de datos escalables, desarrollo de agentes de IA conversacional y la construcción de sistemas de observabilidad avanzada para evaluar y optimizar modelos en producción.
 
-### 🔹 Lenguajes y herramientas:  
-- **Lenguajes:** Python, SQL, DAX, M (Power Query)  
-- **Herramientas:** Power BI, Excel, Jupyter Notebooks  
-- **Bases de datos:** PostgreSQL, Big Query  
-- **Otros:** Git, APIs, ETL  
+---
 
-### 🔹 Habilidades clave:  
-- Limpieza y transformación de datos  
-- Creación de dashboards dinámicos  
-- Modelado de datos eficiente  
-- Análisis estadístico y descriptivo  
-- Presentación de resultados a equipos multidisciplinarios  
+## 🛠️ Lenguajes, Herramientas & Certificaciones  
+
+### 🔹 Stack Técnico:  
+- **Lenguajes:** Python, SQL  
+- **Data Engineering & Cloud:** AWS, Azure Data Factory, Databricks, Apache Spark  
+- **IA Generativa & Agentes:** Amazon Bedrock AgentCore, Strands Agents, Claude Code  
+- **Observabilidad & Evaluación:** OpenTelemetry, Langfuse  
+
+### 📜 Certificaciones:  
+- **Azure:** DP-900 (Azure Data Fundamentals)  
+- **Azure:** DP-750  
+- **AWS:** Cloud Practitioner  
+
+---
 
 ---
 
@@ -28,4 +34,4 @@ Soy un apasionado analista de información con experiencia en el desarrollo de r
 ---
 
 ## 📩 Contáctame  
-Siempre estoy abierto a colaborar en nuevos proyectos o simplemente conectar con personas interesadas en el análisis de datos. ¡No dudes en escribirme!
+Abierto a colaborar en proyectos de ingeniería de datos, arquitectura cloud y desarrollo de s
